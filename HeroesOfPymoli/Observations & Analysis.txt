@@ -1,0 +1,23 @@
+Gender Demographics
+
+1. Majority of the players are Males(84.03%)
+
+Age Demographics
+
+1.Majority if the players are in the age group of 20-24(44.79%)
+
+Purchasing Analysis (Age)
+1. Maximum Purchases are done by the players in the age group of 20-24($1,114.06)
+
+Top Spenders
+1. Lisosia93 is the top spender, with a total purchase value of $18.96
+
+Most Popular Items
+1. Oathbreaker, Last Hope of the Breaking Storm(Item ID -178) is the most purchased item with a total purchase value of $50.76
+
+Most Profitable Items
+1. Oathbreaker, Last Hope of the Breaking Storm(Item ID -178) is the most profitable item with a total purchase value of $50.76
+
+
+
+
