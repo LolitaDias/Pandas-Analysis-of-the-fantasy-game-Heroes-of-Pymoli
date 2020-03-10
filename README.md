@@ -76,7 +76,7 @@ Our final report includes each of the following:
 
 
 
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+
 
 ## Option 2: Academy of Py
 
