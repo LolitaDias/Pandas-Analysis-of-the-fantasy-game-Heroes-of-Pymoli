@@ -79,37 +79,6 @@ Our final report includes each of the following:
 
 
 
-### School Summary
-
-* Create an overview table that summarizes key metrics about each school, including:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
-
-### Top Performing Schools (By Passing Rate)
-
-* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
-
-### Bottom Performing Schools (By Passing Rate)
-
-* Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
 
 ### Math Scores by Grade\*\*
 
