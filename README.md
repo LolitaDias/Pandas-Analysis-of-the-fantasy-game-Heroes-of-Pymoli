@@ -10,9 +10,11 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 Your final report should include each of the following:
 
+Tasks:
+
 ### Player Count
 
-* Total Number of Players
+1. Total Number of Players
 
 ### Purchasing Analysis (Total)
 
