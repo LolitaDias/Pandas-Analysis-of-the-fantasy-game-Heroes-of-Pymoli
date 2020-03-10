@@ -11,6 +11,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 Tasks:
 
 Our final report includes each of the following:
+
 ### Player Count
 
 1. Total Number of Players
@@ -70,7 +71,7 @@ Our final report includes each of the following:
   * Item Price
   * Total Purchase Value
 
-As final considerations:
+
 
 * You must use the Pandas Library and the Jupyter Notebook.
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames.
