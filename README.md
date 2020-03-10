@@ -8,10 +8,11 @@ In this assignment we are analyzing the data for the most recent fantasy game He
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, we are generating a report that breaks down the game's purchasing data into meaningful insights.
 
-Your final report should include each of the following:
+
 
 Tasks:
 
+Your final report should include each of the following:
 ### Player Count
 
 1. Total Number of Players
