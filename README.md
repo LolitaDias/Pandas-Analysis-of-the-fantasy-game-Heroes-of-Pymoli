@@ -4,7 +4,7 @@
 
 ![Fantasy](Images/Fantasy.png)
 
-In this assignment we are analyzing the data for the most recent fantasy game Heroes of Pymoli.
+The goal of this project is to analyze the data for the most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, we are generating a report that breaks down the game's purchasing data into meaningful insights.
 
